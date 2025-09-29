@@ -1,0 +1,1 @@
+var json_Centro_CUCS__10 = {"type":"FeatureCollection","name":"Centro_CUCS__10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nombre":"Centro Comunitario de atención a la salu"},"geometry":{"type":"Point","coordinates":[-103.310202995389091,20.697493660789519]}}]}
